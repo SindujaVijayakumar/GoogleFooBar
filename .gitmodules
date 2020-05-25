@@ -1,0 +1,12 @@
+[submodule "FindIDInDiagMatrix"]
+	path = FindIDInDiagMatrix
+	url = https://github.com/SindujaVijayakumar/FindIDInDiagMatrix
+[submodule "FindParentInPerfectBinTree"]
+	path = FindParentInPerfectBinTree
+	url = https://github.com/SindujaVijayakumar/FindParentInPerfectBinTree
+[submodule "FindDivisbleTriplets"]
+	path = FindDivisbleTriplets
+	url = https://github.com/SindujaVijayakumar/FindDivisbleTriplets.git
+[submodule "SolveMaze"]
+	path = SolveMaze
+	url = https://github.com/SindujaVijayakumar/SolveMaze.git
